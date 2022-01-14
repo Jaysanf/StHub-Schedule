@@ -1,0 +1,5 @@
+.env
+.credentials
+credentials.json
+client_secrets.json
+storage.json
